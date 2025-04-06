@@ -1,4 +1,4 @@
-##CodeAlpha Phishing Awareness Training
+# CodeAlpha Phishing Awareness Training
 📚 Overview
 This repository contains my presentation on Phishing Awareness Training, created as part of Task 2 during my CodeAlpha Cybersecurity Internship. The purpose of this training is to educate individuals and organizations about the dangers of phishing and to provide practical tips on how to identify, avoid, and respond to phishing attempts effectively.
 
